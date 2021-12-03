@@ -1,0 +1,59 @@
+* {
+     margin: 0;
+     padding: 0;
+ }
+
+body
+{
+  background-color: #0F2E98;
+}
+.logs
+{
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.back
+{
+  background-color: #FEFEFE;
+  width: 40%;
+  height: 50%;
+  border-radius: 20px;
+}
+.log
+{
+  background-color: #FCBB67;
+}
+.check
+{
+  background-color:#FCBB67;
+}
+.j i {
+    position: absolute;
+    width: 45px;
+    line-height: 40px;
+}
+.j i {
+    position: absolute;
+    width: 45px;
+    line-height: 40px
+}
+.j input {
+    height: 80%;
+    width: 80%;
+    padding-left: 38px;
+    font-size: 15px;
+    border: none;
+    color: #F2F2F2;
+    outline: none;
+    border-radius: 6px;
+    background: #F2F2F2;
+    box-shadow: inset -6px 6px 12px #F2F2F2, inset 6px -6px 12px #F2F2F2
+}
+.container .j {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    color: #dcdada;
+    position: relative;
+    margin-bottom: 10px
+}
